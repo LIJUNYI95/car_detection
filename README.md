@@ -29,10 +29,3 @@ detect the number of cars with detection file.
 ## Dataset
 
  Dataset can be accessed from: [http://umich.edu/~fcav/rob599_dataset_deploy.zip]
-
-## Group Members
-
-* Junyi Li,
-* Chen Wang,
-* Jiong Zhu,
-* Zhaoheng Zheng,
