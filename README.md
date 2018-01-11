@@ -10,16 +10,20 @@ Numpy(Python3), Skimage(Python3), Scipy(Python3), Pillow(Python3), Cython(Python
 
 ## Inference
 
-###Step1:
+###Step1
+
 Generate tensorflow object detection compatible file, i.e. tfrecord file with ‘create_my_tfrecord_1.py'.
 
-###Step2:
+###Step2
+
 Upload corresponding files to google cloud:’car_new_label.pbkt,cloud.yml,faster_rcnn_resnet101_self.config’and the generated .tfrecord file.
 
-###Step3:
+###Step3
+
 train model on google cloud and download the model after training.
 
-###Step4:
+###Step4
+
 detect the number of cars with detection file.
 
 ## Dataset
