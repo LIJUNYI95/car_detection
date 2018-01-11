@@ -1,7 +1,3 @@
-## Synopsis
-
-This  is for the final project of EECS498.
-
 ## Description
 
 The project implements Faster R-CNN for car detection.
